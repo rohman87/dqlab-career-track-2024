@@ -7,6 +7,8 @@
 ## 🌟 About
 [DQLab Data Analyst Career Track](https://academy.dqlab.id/main/track/67) membantu membangun kompetensi yang dibutuhkan untuk berkarir sebagai Junior Data Analyst. Kurikulum terstruktur untuk melatih problem-solving dan kreativitas, serta dikemas dengan studi kasus yang mencerminkan kondisi data riil di Indonesia. Kelas Data Analyst Career Track (Python) dirancang oleh 7 ahli data, dari beragam Industri seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
 
+diupdate tahun 2024 bisa digunakan untuk kelas Data Enginer Pro Academy Digitalent Kominfo
+
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dqlab-career-track/master/assets/dqlab-DACT.png" /><br>
 
 <!-- TABLE OF CONTENTS -->
