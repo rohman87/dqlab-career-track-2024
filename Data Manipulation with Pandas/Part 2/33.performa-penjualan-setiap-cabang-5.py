@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-
 # [9]. Plot untuk hasil pada langkah #[8]
 by_order_monthly_mean.plot(
    figsize = (8,5),
